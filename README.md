@@ -1,5 +1,4 @@
 # PercentageApp
 This application provides a faster way to calculate various percentages of numbers
 
-![HomeScreen]
-(https://github.com/Sommie09/PercentageApp/blob/master/HomeScreen.png)
+![ezgif com-video-to-gif](https://user-images.githubusercontent.com/38994167/87984959-bc574400-cad2-11ea-8164-c9d582cd8a60.gif)
